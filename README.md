@@ -1,4 +1,7 @@
 # FounderFlow AI Toolkit
+## 🌐 Live Demo
+
+https://bold-venture-ai.lovable.app
 
 A practical AI toolkit designed to help founders think clearly, validate ideas, and grow faster.
 
