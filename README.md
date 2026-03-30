@@ -66,3 +66,16 @@ Not just prompts — but a system that helps founders think, decide, and execute
 ## Version
 
 v0.1 — Initial toolkit release
+## Example Usage
+
+**Idea:**
+An app that lets users claim territory by walking in real life.
+
+**Using startup-analysis prompt →**
+
+- Problem: Motivation for fitness is inconsistent  
+- Users: Students, fitness beginners  
+- Insight: Gamification + ownership increases engagement  
+
+**Next move:**
+Build a simple prototype and test with 10 users in 48 hours
