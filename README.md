@@ -82,3 +82,6 @@ An app that lets users claim territory by walking in real life.
 
 **Next move:**
 Build a simple prototype and test with 10 users in 48 hours
+## Status
+
+Actively building and improving FounderFlow AI Copilot.
