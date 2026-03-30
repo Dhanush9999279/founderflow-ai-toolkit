@@ -48,13 +48,10 @@ This toolkit is built to:
 ---
 
 ## Repository Structure
-
-```
-prompts/      → Startup prompts  
-system/       → AI thinking system  
-templates/    → Structured data templates  
-examples/     → Realistic use cases  
-```
+prompts/ → Startup prompts
+system/ → AI thinking system
+templates/ → Structured data templates
+examples/ → Realistic use cases
 
 ---
 
