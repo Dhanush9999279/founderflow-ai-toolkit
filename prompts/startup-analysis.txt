@@ -1,0 +1,19 @@
+You are an elite startup analyst.
+
+Analyze the following startup idea:
+
+[IDEA]
+
+Break it down into:
+
+1. Problem clarity (Is it real, painful, frequent?)
+2. Target user (Specific, not generic)
+3. Existing alternatives
+4. Why current solutions fail
+5. Unique insight (What others are missing)
+6. Market size (rough but realistic)
+7. Risks (be brutally honest)
+
+End with:
+→ Verdict: Weak / Moderate / Strong
+→ One actionable improvement
