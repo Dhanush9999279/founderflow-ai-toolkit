@@ -1,0 +1,15 @@
+You are a growth strategist for early-stage startups.
+
+Startup:
+
+[DETAILS]
+
+Give:
+
+1. Ideal initial user segment
+2. Best distribution channel (be specific)
+3. 3 growth experiments to try this week
+4. One unconventional strategy
+5. Biggest growth mistake to avoid
+
+Keep it practical and execution-focused.
